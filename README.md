@@ -1,7 +1,7 @@
 # Frieren Flight - Iron's Spells Addon
 
 <p align="center">
-  <img src="common/src/main/resources/assets/frieren_flight/textures/gui/spell_icons/flight.png" alt="Frieren Flight Logo" width="128" height="128" />
+  <img src="logo.png" alt="Frieren Flight Logo" width="160" height="160" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 Overview / ภาพรวมม็อด
+##  Overview / ภาพรวมม็อด
 
 **Frieren Flight** is a multi-loader addon for **Iron's Spells 'n Spellbooks**, faithfully introducing legendary spells from *Sousou no Frieren (Frieren: Beyond Journey's End)* along with Megumin's iconic Explosion magic from *KonoSuba*.
 
@@ -28,9 +28,9 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-## ✨ Featured Spells / รายละเอียดเวทมนตร์
+##  Featured Spells / รายละเอียดเวทมนตร์
 
-### 1. 🪽 Flight Magic (人類の魔法 - เวทมนตร์บินได้)
+### 1.  Flight Magic (人類の魔法 - เวทมนตร์บินได้)
 - **School:** Ender
 - **Rarity:** Rare (Levels 1–5)
 - **Cast Type:** Instant (Toggle On/Off)
@@ -42,7 +42,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-### 2. 🗡️ Reelseiden (レイルザイデン - เวทตัดสะบั้น)
+### 2. Reelseiden (レイルザイデン - เวทตัดสะบั้น)
 - **School:** Evocation
 - **Rarity:** Epic (Levels 1–5)
 - **Cast Type:** Instant
@@ -54,7 +54,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-### 3. ⚡ Judradjim (ジュドラジム - เวทสายฟ้าทำลายล้าง)
+### 3.  Judradjim (ジュドラジム - เวทสายฟ้าทำลายล้าง)
 - **School:** Lightning
 - **Rarity:** Legendary (Levels 1–5)
 - **Cast Type:** Long Cast (1.5s Channel)
@@ -65,7 +65,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-### 4. 🌸 Flower Bed Magic (花畑を出す魔法 - เวทเสกทุ่งดอกไม้)
+### 4.  Flower Bed Magic (花畑を出す魔法 - เวทเสกทุ่งดอกไม้)
 - **School:** Nature
 - **Rarity:** Epic (Levels 1–5)
 - **Cast Type:** Long Cast (1.0s Serene Channel)
@@ -82,7 +82,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-### 5. 💥 Explosion Magic (エクスプロージョン - เวทระเบิดกัมปนาท)
+### 5.  Explosion Magic (エクスプロージョン - เวทระเบิดกัมปนาท)
 - **School:** Fire
 - **Rarity:** Legendary (Levels 1–5)
 - **Cast Type:** Long Cast (4.5s Incantation)
@@ -95,7 +95,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-## 📦 Requirements & Compatibility / ความต้องการของระบบ
+##  Requirements & Compatibility / ความต้องการของระบบ
 
 | Platform | Minecraft Version | Mod Loader | Required Iron's Spells Version | Java |
 | :--- | :---: | :---: | :---: | :---: |
@@ -104,7 +104,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-## 🚀 Installation / วิธีการติดตั้ง
+##  Installation / วิธีการติดตั้ง
 
 1. Install **Minecraft Forge** (for 1.20.1) or **NeoForge** (for 1.21.1).
 2. Download and install **Iron's Spells 'n Spellbooks** and its respective dependencies (e.g., Curios / PlayerAnimator).
@@ -116,7 +116,7 @@ Available for both **Minecraft 1.21.1 (NeoForge)** and **Minecraft 1.20.1 (Forge
 
 ---
 
-## 🛠️ Building from Source / การคอมไพล์จาก Source Code
+##  Building from Source / การคอมไพล์จาก Source Code
 
 The project uses a high-performance multi-loader build script:
 

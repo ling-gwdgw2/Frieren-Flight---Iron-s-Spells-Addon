@@ -7,6 +7,7 @@ modId="frieren_flight"
 version="1.0.0"
 displayName="Frieren Flight - Iron's Spells Addon"
 authors="Aling7788565"
+logoFile="logo.png"
 description='''Frieren-inspired Flight Magic (人類の魔法) for Iron's Spells 'n Spellbooks. Fly freely while continuously consuming mana, and cast Zoltraak from the sky!'''
 
 [[dependencies.frieren_flight]]
