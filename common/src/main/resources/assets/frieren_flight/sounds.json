@@ -1,0 +1,62 @@
+{
+  "megumin_explosion_chant": {
+    "category": "players",
+    "subtitle": "subtitles.frieren_flight.megumin_explosion_chant",
+    "sounds": [
+      {
+        "name": "frieren_flight:mob/megumin_explosion_chant",
+        "stream": false
+      }
+    ]
+  },
+  "megumin_explosion_charging": {
+    "category": "players",
+    "subtitle": "subtitles.frieren_flight.megumin_explosion_charging",
+    "sounds": [
+      {
+        "name": "frieren_flight:mob/megumin_explosion_charging",
+        "stream": false
+      }
+    ]
+  },
+  "megumin_explosion_ray": {
+    "category": "players",
+    "subtitle": "subtitles.frieren_flight.megumin_explosion_ray",
+    "sounds": [
+      {
+        "name": "frieren_flight:mob/megumin_explosion_ray",
+        "stream": false
+      }
+    ]
+  },
+  "megumin_explosion_detonation": {
+    "category": "players",
+    "subtitle": "subtitles.frieren_flight.megumin_explosion_detonation",
+    "sounds": [
+      {
+        "name": "frieren_flight:mob/megumin_explosion_detonation",
+        "stream": false
+      }
+    ]
+  },
+  "megumin_explosion_blast": {
+    "category": "players",
+    "subtitle": "subtitles.frieren_flight.megumin_explosion_blast",
+    "sounds": [
+      {
+        "name": "frieren_flight:mob/megumin_explosion_blast",
+        "stream": false
+      }
+    ]
+  },
+  "megumin_explosion": {
+    "category": "players",
+    "subtitle": "subtitles.frieren_flight.megumin_explosion",
+    "sounds": [
+      {
+        "name": "frieren_flight:mob/megumin_explosion",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(17)
+}
+
+dependencies {
+    implementation project(':common')
+}
+
+processResources {
+    from project(':common').sourceSets.main.resources
+}

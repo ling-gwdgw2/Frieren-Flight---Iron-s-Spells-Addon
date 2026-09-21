@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Gradle files & caches
+.gradle/
+build/
+bin/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Subproject build outputs
+common/bin/
+common/build/
+forge/bin/
+forge/build/
+neoforge/bin/
+neoforge/build/
+
+# Built JAR artifacts
+*.jar
+*.war
+*.ear
+
+# IDEs & Editors
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Intermediate / scratch assets
+megumin_extracted/
+test_blast.ogg
+scratch/
+
+# Local Libraries (Game & Dependency jars are ignored to comply with Mojang EULA & keep repository clean)
+libs/
+libs_forge/
